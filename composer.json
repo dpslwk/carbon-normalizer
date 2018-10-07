@@ -8,7 +8,7 @@
   "require": {
     "php": ">=5.5.9",
     "nesbot/carbon": "^1.0",
-    "symfony/serializer": "^2.3|^3.0"
+    "symfony/serializer": "^2.3|^3.0|^4.0"
   },
   "require-dev": {
     "phpspec/phpspec": "~2.0"
